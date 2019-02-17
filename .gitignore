@@ -1,0 +1,5 @@
+.history
+.vscode
+blog/__pycache*
+blog/migrations/__pycache__/*
+django_project/__pycache__/*
